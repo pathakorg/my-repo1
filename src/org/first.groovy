@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-class MyClass {
+class first {
 def function(first) {
   echo "Hi, ${first}"
 }
