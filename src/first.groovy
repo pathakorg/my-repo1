@@ -1,3 +1,3 @@
-def func(str)
+def func(str){
   println "Data:${str}"
 }
